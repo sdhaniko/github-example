@@ -1,5 +1,1 @@
-# github-example
-demo for github
-
-
-CAPSTONE Project
+# applied_data_science_capstone
